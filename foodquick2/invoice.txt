@@ -1,0 +1,18 @@
+Order number 9228
+Customer: siu
+Email: sm@gmai.com
+Phone number: 012-234-3454
+Location: Cape Town
+
+You have ordered the following from hjhj in Cape Town:
+
+- jhjj ($23.45)
+  Special instructions: ghgh
+
+- jhj ($233.44)
+  Special instructions: jjhjhj
+
+Total: $256.89
+
+Your order will be delivered by Miranda Metcalfe in Cape Town
+Thank you for your order!
